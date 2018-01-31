@@ -5,11 +5,11 @@ h1 {
   color: white;
   text-align: center;
 }
-h2 {
+a {
   font-family: Verdana;
   font-weight: normal;
   font-size: 16px;
-  color: aquamarine;
+  color: rgba (127, 255, 212, 1);
   text-align: center;
   text-decoration: underline;
 }
